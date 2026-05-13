@@ -1,5 +1,5 @@
 # Sigma-for-Splunk-App
-Splunk that auto-ingests new Sigma rules, converting them to saved searches within Spunk
+App for Splunk that auto-ingests new Sigma rules, converting them to saved searches within Spunk
 
 
 Download sigma_auto_alert.spl
